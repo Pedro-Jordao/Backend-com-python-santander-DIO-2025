@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![DIO](https://img.shields.io/badge/DIO-Bootcamp-FF6B35?style=for-the-badge)](https://web.dio.me/home)
 [![Santander](https://img.shields.io/badge/Santander-Open%20Academy-EC0000?style=for-the-badge)](https://www.santander.com.br/)
 
