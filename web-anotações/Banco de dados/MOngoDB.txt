@@ -1,0 +1,10 @@
+MOngoDB
+
+COdigo Aberto
+Schema Free
+Alta performance
+Utiliza Bson ao invés de Json
+escalagem principalmente horizontal 
+
+
+Indicado para BigData 

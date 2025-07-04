@@ -1,0 +1,46 @@
+Herança - 
+A Herança é um dos princípios mais importantes da Programação Orientada a Objetos e consiste em permitir que novas classes criadas possam reutilizar, continuar e alterar comportamentos definidos em classes "superiores". Ou seja, é a capacidade de uma classe derivar-se de outra, herdando as suas características e comportamentos e utilizá-los e adaptá-los em seu próprio escopo.
+
+A classe inicial de onde os membros são "herdados" é chamada de classe base e as seguintes são classes derivadas. Outros termos muito utilizados são "classe pai" e "classe filha".
+
+
+
+Sintaxe básica de uma herança em Python -
+class A:
+   R = 10
+   π = 3.14
+   formula = 2 * π * R
+ 
+
+class B(A):
+   print(formula)
+
+
+
+
+
+
+Herança simples e Herança múltipla:
+
+A Herança Simples acontece quando a classe filha herda apenas de uma classe pai.
+class A:
+    R = 10
+    π = 3.14
+    formula = 2 * π * R
+
+
+class B(A):
+    resultado = f"{A.formula:.2f}"
+    print(resultado)
+
+
+Herança múltipla acontece quando uma classe filha herda de mais de uma classe pai.
+class A:
+    R = 10
+    π = 3.14
+    formula = 2 * π * R
+
+
+class B:
+
+

@@ -1,0 +1,26 @@
+Set
+
+
+Um set é uma coleção sem objetos repetitivos. É utilizado para a representação de conjuntos matemáticos ou a eliminação de itens duplicados de um iterável.
+O set não possui preferência ou garantia de ordem. Ele entrega os valores mas não necessariamente com uma ordem exata.
+
+Sets podem ser declarados com a palavra set seguida de valores em parênteses, bem como pode ser declarada (de forma menos comum) por colchetes {}.
+
+
+
+Métodos (matemáticos) com sets:
+	• .union() - união
+	• .intersection() - intersecção
+	• .difference() - diferença
+	• .symetric_difference - diferença simétrica
+	• .issubset - se um conjunto é um subconjunto de outro 
+	• .issuperset - se um conjunto é o superconjunto de outro	
+	• .isdisjoint - se todos os elementos de um conjunto são diferentes de todos os elementos de outro
+	• .add - adiciona um item (se não repetido)
+	• .clear - limpa o set
+	• .copy - faz uma cópia do set para caso de antes de alterações futuras haver uma cópia intocada do set original
+	• .discard - descarta um valor, se esse valor existir. Se o valor não estiver na lista, nada acontece.
+	• .pop - tira valores - diferentemente do pop em listas, esse tira o valor da frente ao invés do valor final.
+	• .remove - remove-se o valor definido. A diferença entre ele e o discard principalmente é o fato de que ao invés de retornar em um print o valor removido, ele retorna None e ao invés de não 		    fazer nada caso o valor não exista, ele vai gerar um erro. 
+	• len - mostra o tamanho do elemento set.
+	• in - verifica se um determinado valor está dentro do conjunto

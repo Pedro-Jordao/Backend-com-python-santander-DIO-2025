@@ -1,0 +1,5 @@
+Encapsulamento é um outro princípio da Programação Orientada a Objetos. Este, por sua vez, visa agrupar dados e métodos de forma a impor restrições de acesso direto a esses agrupamentos, evitando alterações indesejadas ou acidentais, por exemplo.
+
+Um valor é considerado privado por convenção quando é iniciado com '_'.
+
+ 

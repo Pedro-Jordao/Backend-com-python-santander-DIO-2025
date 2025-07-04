@@ -1,0 +1,58 @@
+• Tuplas e Listas em Python
+
+• Matrizes com Lista e Tupla e operações com matrizes com listas e tuplas em Python (lista aninhada e tupla aninhada e quando utilizar cada uma)
+
+• Fatiamento de Listas em Python ( lista [2:] ; lista [:2]; lista [0:3:2] etc...)
+
+• Iteração de Listas em Python
+
+• Função Enumerate
+
+• Dicionários
+
+• Módulos em python
+
+• Criando meus módulos em Python
+
+• List Comprehension
+
+• Classes em Python
+
+• Criando minhas Classes em Python
+
+• Adicionando itens à minha lista em Python (append, extend, etc)
+
+• Removendo itens da minha lista em Python (pop, remove, etc) 
+
+• Método .copy e módulo copy
+
+• Método index
+
+• Método sort e função  sorted (com reverse e key)
+
+• Formas de ordenar uma lista (Ordem de tamanho do item, ordem alfabética, etc) 
+
+• Tuplas em Python
+
+• Métodos de tuplas em python
+
+• PARADIGMAS DE PROGRAMAÇÃO
+
+• POO
+
+• Compilador x Transpilador
+
+• Escolha a sua IDE
+
+• VS CODE não é uma IDE
+
+• Método Construtor X Método Destrutor
+
+• Classes e objetos
+
+• Iteradores e Geradores
+
+• decorator 
+
+• açúcar sintático
+

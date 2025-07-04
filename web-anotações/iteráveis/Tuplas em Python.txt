@@ -1,0 +1,22 @@
+Uma tupla é uma estrutura semelhante à lista com algumas restrições, sendo que a principal diferença é que as tuplas se encaixam na categoria de objetos imutáveis, enquanto as listas são mutáveis.
+
+Formas de criar uma tupla:
+
+• Parênteses (é ideal que, caso gere-se a tupla com parênteses, coloque-se sempre uma vírgula no final, para que o python tenha a certeza de não interpretar como uma precedência de operadores, por exemplo.
+
+• tuple('item')
+
+• pais = ('Brasil',)
+
+
+
+É possível gerar tuplas aninhadas para matrizes;
+
+
+Fatiamento de tuplas:
+Funciona da mesma forma que o fatiamento de listas.
+
+
+Métodos com tuplas:
+
+As tuplas possuem os mesmos métodos de não atualização que as listas. Ou seja, por ser imutável, as tuplas só podem ser influenciadas por métodos que não as alteram sendo eles count, index e len.

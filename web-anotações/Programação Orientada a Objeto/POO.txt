@@ -1,0 +1,54 @@
+
+PARADIGMAS DE PROGRAMAÇÃO:
+Um paradigma de programação nada mais é que um estilo de se programar. Uma forma de resolver problemas, independentemente da linguagem. Considera-se o uso de ferramentas, a ordem dos fatores, entre outros aspectos.
+Como visto no curso, existem alguns paradigmas diferentes, como "Imperativo/Procedural", "Funcional", "Orientado a Eventos" e, o mais conhecido, "Orientado a Objeto".
+
+Abaixo, uma breve explicação de cada um:
+
+Imperativo/Procedural:
+Baseia-se em uma sequência de instruções que alteram o estado do programa. O foco está em como o problema será resolvido, utilizando comandos, estruturas de controle (como if, while, for) e procedimentos (funções). Muito comum em linguagens como C.
+
+Funcional:
+Neste paradigma, o foco está em o que deve ser feito, e não em como fazer. Utiliza funções puras (sem efeitos colaterais), evita alterações de estado e valor de variáveis, e trabalha com imutabilidade. É comum em linguagens como Haskell e, em partes, JavaScript.
+
+Orientado a Eventos:
+A execução do código depende de eventos que ocorrem no sistema, como cliques de usuário, respostas de servidor ou ações do sistema operacional. Muito utilizado no desenvolvimento de interfaces gráficas e aplicações web.
+
+Orientado a Objeto:
+Organiza o código em "objetos", que combinam dados e comportamentos. É baseado nos conceitos de classe, herança, encapsulamento e polimorfismo. Muito usado em linguagens como Java, Python e C#.
+O Paradigma orientado a objetos, considera uma programação que estrutura o código com abstrações de problemas separados em objetos do mundo real.
+
+
+
+
+ 
+
+
+
+
+CLASSES E OBJETOS:
+
+CLASSES E OBJETOS:
+Classes e objetos são conceitos centrais dentro do paradigma de programação Orientado a Objetos.
+
+Classe:
+Pode ser entendida como um molde ou estrutura que define os atributos (características) e métodos (comportamentos) que os objetos daquele tipo terão. Ela serve como um modelo para criar objetos.
+
+Objeto:
+É a instância concreta de uma classe. Quando um objeto é criado a partir de uma classe, ele passa a ter valores específicos para seus atributos e pode executar os métodos definidos.
+
+
+
+
+Métodos de classe:
+
+
+
+Método construtor:
+
+O método construtor é executado automaticamente sempre que criamos um novo objeto. Ele serve para inicializar o estado daquele objeto, ou seja, definir os valores iniciais dos seus atributos.
+Para criar um método construtor em Python, usamos o nome especial __init__.
+
+Método destrutor:
+
+O método destrutor é executado quando um objeto é destruído. Para ser declarado um método destrutor, é usado o nome especial __del__.

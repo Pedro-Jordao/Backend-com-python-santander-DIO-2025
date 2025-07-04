@@ -1,0 +1,26 @@
+Dicionários em Python-
+
+Conjunto de pares chave:valor;
+A chave deve ser um objeto imutável, já o valor pode ser qualquer tipo de valor.
+
+
+Para declarar um dicionário, pode-se utilizar {'key' : 'value'} ; dict(key = "value") ; pessoa ["email"] = "teste@teste.com" -- adiciona um par a um dicionário já existente.
+
+Pode haver dicionários aninhados (um dicionário dentro de um dicionário no campo de valor do dicionário 'externo'), que são muito úteis para estruturas semelhantes a bancos de dados.
+
+
+MÉTODOS DE DICIONÁRIOS:
+.clear - apaga todos os valores
+.copy - copia e permite armazenar a cópia do dicionário
+.fromkeys - cria chaves que recebem um valor None ou cria chaves que recebem um valor padrão
+.get - Pode ser usado para encontrar uma chave que não se sabe se existe ou não (se buscada normalmente, geraria erro. Com o get, pode-se inclusive, retornar um valor padrão para caso não exista.
+.items - retorna uma lista de tuplas
+.keys - retorna somente as chaves 
+.pop - remove um item escolhido do dicionário
+.popitem - remove um item sequencial do dicionário
+.setdefault - se o atributo nao estiver no dicionário, ele retorna o valor que for definido por default
+.update - atualiza um dicionário com base em outro, atualizando dados já existentes e adicionando os que não houver
+.values - Retorna apenas os valores 
+in - Maneira mais elegante de checar se algo está dentro de um dicionário
+del - passa-se para o del o objeto exato que se deseja remover, podendo ser as chaves, valores, chaves internas, etc. Cuidado! O del pode deletar o dicionário inteiro
+

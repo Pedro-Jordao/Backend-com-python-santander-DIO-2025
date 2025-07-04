@@ -1,0 +1,9 @@
+Python DB API - Uma especificação que vai determinar como o Python vai se comunicar com os SGBDs, garantindo que todos os Drivers de database instalados respeitem os mesmos métodos.
+
+
+
+Conexão do Python DB API com sqlite3
+
+import sqlite3
+con = sqlite3.connect('meu_banco')
+

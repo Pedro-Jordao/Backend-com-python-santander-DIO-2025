@@ -1,0 +1,6 @@
+Polimorfismo
+
+A capacidade de um método de se comportar de diferentes formas.
+
+
+ 
